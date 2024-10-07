@@ -1,0 +1,27 @@
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.exe.config
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.exe
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.pdb
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.csprojResolveAssemblyReference.cache
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.Form1.resources
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.Properties.Resources.resources
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.csproj.GenerateResource.Cache
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.exe
+C:\Users\Kresimir\Documents\Visual Studio 2012\Projects\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.pdb
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.exe.config
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.exe
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.pdb
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.exe
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.pdb
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.csprojResolveAssemblyReference.cache
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.Form1.resources
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.Properties.Resources.resources
+D:\Documents\Faks_posao\Baze Podataka (strucni)\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.exe.config
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.exe
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\bin\Debug\Baze_LV7_predlozak.pdb
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.Form1.resources
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.Properties.Resources.resources
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.exe
+C:\Users\student\Desktop\Baze_LV7_predlozak\Baze_LV7_predlozak\obj\Debug\Baze_LV7_predlozak.pdb
