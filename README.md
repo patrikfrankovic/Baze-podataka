@@ -1,2 +1,2 @@
 # Baze-podataka
-Repozitorij za laboratijske vježbe
+Repozitorij za laboratorijske vježbe
